@@ -1,0 +1,13 @@
+{
+  "version": "1.1.4",
+  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 Fix AI server Respone. Clear all Typing and change it to Search&Filter. Fix Province problem.",
+  "urls": {
+    "automation.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/automation.cp312-win_amd64.pyd",
+    "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/app_core.cp312-win_amd64.pyd",
+    "excel_work.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/excel_work.cp312-win_amd64.pyd",
+    "ui.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/ui.cp312-win_amd64.pyd",
+    "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/auto_update.cp312-win_amd64.pyd",
+    "login.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/login.cp312-win_amd64.pyd",
+    "telegram_error_report.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/telegram_error_report.cp312-win_amd64.pyd"
+  }
+}
