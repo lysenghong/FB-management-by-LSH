@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "changelog": "អាាប់ដេតថ្មី! (New Update) 🤖 Updated core PYD modules, status checking speed, and mail stock features.",
+  "version": "1.0.2",
+  "changelog": "Fix browse mail and other bug",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
