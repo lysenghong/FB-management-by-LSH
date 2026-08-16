@@ -1,13 +1,25 @@
 {
-  "version": "1.1.4",
-  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 Fix AI server Respone. Clear all Typing and change it to Search&Filter. Fix Province problem.",
+  "version": "1.0.1",
+  "changelog": "អាាប់ដេតថ្មី! (New Update) 🤖 Updated core PYD modules, status checking speed, and mail stock features.",
   "urls": {
-    "automation.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/automation.cp312-win_amd64.pyd",
-    "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/app_core.cp312-win_amd64.pyd",
-    "excel_work.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/excel_work.cp312-win_amd64.pyd",
-    "ui.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/ui.cp312-win_amd64.pyd",
-    "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/auto_update.cp312-win_amd64.pyd",
-    "login.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/login.cp312-win_amd64.pyd",
-    "telegram_error_report.cp312-win_amd64.pyd": "https://github.com/lysenghong/Auto-DHIS2-App/releases/latest/download/telegram_error_report.cp312-win_amd64.pyd"
+    "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
+    "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
+    "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/app_core.cp312-win_amd64.pyd",
+    "change_name.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/change_name.cp312-win_amd64.pyd",
+    "check_novery_status.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/check_novery_status.cp312-win_amd64.pyd",
+    "copy_backup_file.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/copy_backup_file.cp312-win_amd64.pyd",
+    "driver_utils.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/driver_utils.cp312-win_amd64.pyd",
+    "fb_actions.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/fb_actions.cp312-win_amd64.pyd",
+    "license_manager.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/license_manager.cp312-win_amd64.pyd",
+    "live_checker.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/live_checker.cp312-win_amd64.pyd",
+    "mail_actions.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/mail_actions.cp312-win_amd64.pyd",
+    "promode.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/promode.cp312-win_amd64.pyd",
+    "reg.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/reg.cp312-win_amd64.pyd",
+    "relogin.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/relogin.cp312-win_amd64.pyd",
+    "scan_mail.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/scan_mail.cp312-win_amd64.pyd",
+    "set_profile_cover.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/set_profile_cover.cp312-win_amd64.pyd",
+    "twofa_action.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/twofa_action.cp312-win_amd64.pyd",
+    "user_agents.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/user_agents.cp312-win_amd64.pyd",
+    "verify_cp.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/verify_cp.cp312-win_amd64.pyd"
   }
 }
