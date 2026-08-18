@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.2",
   "changelog": "Fix bLicense Server",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
