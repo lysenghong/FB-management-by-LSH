@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "Update ការញ៉ាំ Mail មេៗ តោះមេៗ Click update មួយទៅ",
+  "version": "1.1.0",
+  "changelog": "ថ្ងៃនឹងអស់ version ត្រឹមនឹងហើយមេៗ",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
