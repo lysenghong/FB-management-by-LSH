@@ -1,10 +1,11 @@
 {
-  "version": "1.1.0",
-  "changelog": "ថ្ងៃនឹងអស់ version ត្រឹមនឹងហើយមេៗ",
+  "version": "1.1.1",
+  "changelog": "Fix mail flow with 2 style. Fix UI freezing. and Fix click Resend code",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/app_core.cp312-win_amd64.pyd",
+    "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/auto_update.cp312-win_amd64.pyd",
     "change_name.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/change_name.cp312-win_amd64.pyd",
     "check_novery_status.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/check_novery_status.cp312-win_amd64.pyd",
     "copy_backup_file.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/copy_backup_file.cp312-win_amd64.pyd",
@@ -20,6 +21,7 @@
     "set_profile_cover.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/set_profile_cover.cp312-win_amd64.pyd",
     "twofa_action.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/twofa_action.cp312-win_amd64.pyd",
     "user_agents.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/user_agents.cp312-win_amd64.pyd",
-    "verify_cp.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/verify_cp.cp312-win_amd64.pyd"
+    "verify_cp.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/verify_cp.cp312-win_amd64.pyd",
+    "verify_cp_2mail_flow.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/verify_cp_2mail_flow.cp312-win_amd64.pyd"
   }
 }
