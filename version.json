@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "changelog": "Fix mail flow with 2 style. Fix UI freezing. and Fix click Resend code",
+  "version": "1.1.2",
+  "changelog": "Fix Verify flow. Fix Export and copy with IIII. fix import mail",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
