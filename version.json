@@ -1,8 +1,9 @@
 {
   "version": "1.1.2",
-  "changelog": "Fix Verify flow. Fix Export and copy with IIII. fix import mail",
+  "changelog": "Massive update let go to V1.1.3",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
+    "action_by_token.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_by_token.cp312-win_amd64.pyd",
     "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/app_core.cp312-win_amd64.pyd",
     "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/auto_update.cp312-win_amd64.pyd",
@@ -14,6 +15,7 @@
     "license_manager.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/license_manager.cp312-win_amd64.pyd",
     "live_checker.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/live_checker.cp312-win_amd64.pyd",
     "mail_actions.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/mail_actions.cp312-win_amd64.pyd",
+    "mail_crypto.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/mail_crypto.cp312-win_amd64.pyd",
     "promode.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/promode.cp312-win_amd64.pyd",
     "reg.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/reg.cp312-win_amd64.pyd",
     "relogin.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/relogin.cp312-win_amd64.pyd",
