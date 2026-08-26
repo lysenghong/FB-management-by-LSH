@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "auto_update": false,
-  "changelog": "Fix 2fa, UI freezing, Active account...",
+  "changelog": "Add LSH_Shop for Mail Supply",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "action_by_token.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_by_token.cp312-win_amd64.pyd",
