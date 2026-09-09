@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "auto_update": false,
-  "changelog": "Add LSH_Shop for Mail Supply",
+  "changelog": "Update Error 2FA, Error Return Account data when finish, Error Novery have mail and Full verify but no mail, fix error when sorthing and more...",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "action_by_token.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_by_token.cp312-win_amd64.pyd",
