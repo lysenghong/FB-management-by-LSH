@@ -21,6 +21,7 @@
     "reg.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/reg.cp312-win_amd64.pyd",
     "relogin.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/relogin.cp312-win_amd64.pyd",
     "scan_mail.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/scan_mail.cp312-win_amd64.pyd",
+    "renew_mail_token.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/renew_mail_token.cp312-win_amd64.pyd",
     "set_profile_cover.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/set_profile_cover.cp312-win_amd64.pyd",
     "twofa_action.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/twofa_action.cp312-win_amd64.pyd",
     "user_agents.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/user_agents.cp312-win_amd64.pyd",
