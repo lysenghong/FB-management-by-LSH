@@ -1,13 +1,14 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "auto_update": false,
-  "changelog": "Update Error 2FA, Error Return Account data when finish, Error Novery have mail and Full verify but no mail, fix error when sorthing and more...",
+  "changelog": "Fix verify setting bug, add YSH, Angkorphonesms, Let go to V1.1.9 មេៗ",
   "urls": {
     "action_282.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_282.cp312-win_amd64.pyd",
     "action_by_token.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/action_by_token.cp312-win_amd64.pyd",
     "active_account.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/active_account.cp312-win_amd64.pyd",
     "app_core.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/app_core.cp312-win_amd64.pyd",
     "auto_update.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/auto_update.cp312-win_amd64.pyd",
+    "angkor_phone_api.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/angkor_phone_api.cp312-win_amd64.pyd",
     "change_name.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/change_name.cp312-win_amd64.pyd",
     "check_novery_status.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/check_novery_status.cp312-win_amd64.pyd",
     "copy_backup_file.cp312-win_amd64.pyd": "https://github.com/lysenghong/FB-management-by-LSH/releases/latest/download/copy_backup_file.cp312-win_amd64.pyd",
